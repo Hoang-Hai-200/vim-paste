@@ -39,7 +39,7 @@ If you're using **[vim-airline](https://github.com/vim-airline/vim-airline)**, I
 
         set noshowmode
 
-Press <leader>i (commonly \i or ,i) to:
+Press <leader> i (commonly \i or ,i) to:
         
         ✅ Automatically enter Insert mode
         
