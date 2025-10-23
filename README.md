@@ -32,3 +32,15 @@ A lightweight Vim plugin that lets you enter **Insert mode with `set paste` enab
             set nopaste
             let g:paste_mode = 0
         endfunction
+
+## 🚀 Usage
+
+If you're using **[vim-airline](https://github.com/vim-airline/vim-airline)**, I am recommended to add:
+
+        set noshowmode
+
+Press <leader>i (commonly \p or ,p) to:
+
+✅ Automatically enter Insert mode
+✅ Set paste option
+✅ Automatically disable paste mode when leaving Insert mode
