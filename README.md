@@ -1,4 +1,4 @@
-
+<img width="812" height="270" alt="image" src="https://github.com/user-attachments/assets/97e4908d-5212-44ae-aab5-5dc58b16eaac" />
 # 🩹 Vim Paste 
 
 A lightweight Vim plugin that lets you enter **Insert mode with `set paste` enabled** — perfect for pasting text without unwanted indentation or autoformatting.
@@ -38,7 +38,7 @@ A lightweight Vim plugin that lets you enter **Insert mode with `set paste` enab
 If you're using **[vim-airline](https://github.com/vim-airline/vim-airline)**, I am recommended to add:
 
         set noshowmode
-<img width="812" height="270" alt="image" src="https://github.com/user-attachments/assets/e2b24af5-577c-4bdf-b38e-5a66841d6d50" />
+<img width="812" height="270" alt="image" style="display:block; margin:auto;"  src="https://github.com/user-attachments/assets/c13dee9c-57c4-4a6c-bdc1-cc6cbdf16d41" />
 
 Press leader + i ( leader commonly \ or , ) to:
         
