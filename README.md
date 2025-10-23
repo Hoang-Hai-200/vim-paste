@@ -39,8 +39,10 @@ If you're using **[vim-airline](https://github.com/vim-airline/vim-airline)**, I
 
         set noshowmode
 
-Press <leader>i (commonly \p or ,p) to:
-
-✅ Automatically enter Insert mode
-✅ Set paste option
-✅ Automatically disable paste mode when leaving Insert mode
+Press <leader>i (commonly \i or ,i) to:
+        
+        ✅ Automatically enter Insert mode
+        
+        ✅ Set paste option
+        
+        ✅ Automatically disable paste mode when leaving Insert mode
