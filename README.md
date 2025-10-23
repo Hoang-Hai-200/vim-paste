@@ -11,7 +11,7 @@ A lightweight Vim plugin that lets you enter **Insert mode with `set paste` enab
 
 1. With [vim-plug](https://github.com/junegunn/vim-plug), simply add this line to your `.vimrc`:
 
-        Plug 'your-github-username/vim-paste-mode'
+        Plug 'Hoang-Hai-200/vim-paste.git'
 
 
 2. if not copy script to ~/.vimrc or ~/.config/nvim/init.vim
