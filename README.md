@@ -37,7 +37,7 @@ A lightweight Vim plugin that lets you enter **Insert mode with `set paste` enab
 
 
 
-<pre> ```Press `<leader> + i` ( leader is commonly `\` or `,` ) ``` </pre>
+Press `<leader> + i` ( leader is commonly `\` or `,` ) to :
         
         - Automatically enter Insert mode
         - Set paste option
