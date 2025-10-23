@@ -35,14 +35,11 @@ A lightweight Vim plugin that lets you enter **Insert mode with `set paste` enab
 ## 🚀 Usage
 <img width="812" height="270" alt="image" src="https://github.com/user-attachments/assets/4269a9c1-b26b-46fb-a337-a9a4956da230" />
 
-Press \<leader\> + i ( leader commonly \ or , ) to:
+Press *\<leader\>* + *i* ( leader commonly *\* or *,* ) to:
         
         - Automatically enter Insert mode
-        
         - Set paste option
-        
         - Automatically disable paste mode when leaving Insert mode
-
 
 
 If you're using **[vim-airline](https://github.com/vim-airline/vim-airline)**, I am recommended to add:
