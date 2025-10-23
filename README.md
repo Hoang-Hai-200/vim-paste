@@ -1,4 +1,3 @@
-<img width="812" height="270" alt="image" src="https://github.com/user-attachments/assets/97e4908d-5212-44ae-aab5-5dc58b16eaac" />
 # 🩹 Vim Paste 
 
 A lightweight Vim plugin that lets you enter **Insert mode with `set paste` enabled** — perfect for pasting text without unwanted indentation or autoformatting.
@@ -34,16 +33,20 @@ A lightweight Vim plugin that lets you enter **Insert mode with `set paste` enab
         endfunction
 
 ## 🚀 Usage
+<img width="812" height="270" alt="image" src="https://github.com/user-attachments/assets/4269a9c1-b26b-46fb-a337-a9a4956da230" />
+
+Press \<leader\> + i ( leader commonly \ or , ) to:
+        
+        - Automatically enter Insert mode
+        
+        - Set paste option
+        
+        - Automatically disable paste mode when leaving Insert mode
+
+
 
 If you're using **[vim-airline](https://github.com/vim-airline/vim-airline)**, I am recommended to add:
 
         set noshowmode
-<img width="812" height="270" alt="image" style="display:block; margin:auto;"  src="https://github.com/user-attachments/assets/c13dee9c-57c4-4a6c-bdc1-cc6cbdf16d41" />
 
-Press leader + i ( leader commonly \ or , ) to:
-        
-        ✅ Automatically enter Insert mode
-        
-        ✅ Set paste option
-        
-        ✅ Automatically disable paste mode when leaving Insert mode
+
